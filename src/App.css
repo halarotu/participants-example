@@ -1,0 +1,118 @@
+.App {
+  text-align: left;
+  background-color: lightgray;
+}
+
+.HeaderRow {
+  background-color: silver;
+  height: 96px;
+}
+
+
+.AddNewForm {
+  width: 100%;
+  height: 72px;
+  background-color: #ffffff;
+}
+
+.AddButton {
+  height: 40px;
+  font-size: 16px;
+  background-color: #dbdbdb;
+  color: #757575;
+}
+
+.ParticipantList {
+  width: 912px;
+  padding-left: 32px;
+  padding-bottom: 32px;
+}
+
+.Participant {
+  height: 72px;
+  background-color: #ffffff;
+  border-bottom: 2px;
+  font-size: 16px;
+}
+
+.ParticipantData {
+  padding-left: 26px;
+}
+
+.ParticipantTable {
+  width: 100%;
+  border-spacing: 0px 2px;
+}
+
+.ParticipantListHeader {
+  height: 120px;
+  padding-top: 70px;
+  font-size: 24px;
+  color: #757575;
+}
+
+.TableHeaderRow {
+  height: 48px;
+  background-color: #ffffff;
+  color: #757575;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+}
+
+.CancelEditButton {
+  color: #07f;
+  background-color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  height: 40px;
+}
+
+.SaveEditButton {
+  color: #ffffff;
+  background-color: #07f;
+  font-size: 16px;
+  font-weight: 500;
+  height: 40px;
+}
+
+.EditableRow {
+  background-color: #ffffff;
+}
+
+.EditButton {
+  border-color: white;
+  color: #909090;
+  height: 24px;
+  width: 24px;
+}
+
+.TrashButton {
+  border-color: white;
+  color: #909090;
+  height: 24px;
+  width: 24px;
+}
+
+h1 {
+  padding-top: 32px;
+  padding-left: 32px;
+  color: white;
+  margin: 0px;
+}
+
+input {
+  height: 40px;
+  padding-left: 10px;
+  margin-left: 16px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  border: 0px;
+  width: 85%;
+  font-size: 16px;
+  background-color: #dbdbdb;
+}
+
+th {
+  padding-left: 26px;
+}
